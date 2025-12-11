@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409331601156",
+    "project_id": "greenstem-86c8d",
+    "storage_bucket": "greenstem-86c8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409331601156:android:a6bd868bf29be5ea1e0a51",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1WOMbsMk3l9cocBV2NIF1tPIDNK59T9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
